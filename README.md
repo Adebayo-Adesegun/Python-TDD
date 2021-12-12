@@ -1,6 +1,6 @@
 # Python-TDD
 
-I created this project to learn about writing unit test in Python... 
+I created this project to learn about writing unit tests in Python... 
 
 I'm familiar with using Flask and Django frameworks for developing web APIs. 
 
